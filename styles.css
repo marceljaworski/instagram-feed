@@ -4,13 +4,13 @@ html {
     background-color: #FAFAFA;
 }
 body {
-    margin-left: 20%;
+    margin-left: 25%;
     
 }
 img {
-    width: 200px;
-    height: 200px;
-    object-fit: cover;
+    width: 20%; 
+    aspect-ratio: 1;
+    object-fit: cover; 
 }
 div {
     display: inline-block;
